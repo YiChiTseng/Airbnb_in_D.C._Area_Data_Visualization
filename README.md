@@ -32,3 +32,11 @@ Data Size: 140 rows × 3 columns
 * Crime Rate of Each Neighborhood from Areavibes <br/>
 Description: Annual Crime Cases Number measured by every 100K people<br/> 
 Website URL: https://www.areavibes.com/washington-dc/neighborhoods/
+
+# Insights
+
+Here is our insights:
+
+* As what we expected, accuracy, cleanliness, checkin, communication, location and value all influence the ratings and overall scores. The increase of these factors will make the ratings and overall review scores go up. By improving the quality of serives according to these factors would level up overal review scores and ratings.
+
+* Specifically, hosts should update the housing info and make sure descriptions and photos accuratly represent the housing stays. The price of stays should provide good values and meet expectations of guests. These two improvments would likely boost the reviews scores and rating the most. Also, cleanliness, check-in and communication experiences are important as well. Location seems to be the one factor that is hardly improve since it's physically here, but it affects the scores and ratings the least among all factors. Guests should put emphasis on improving the rest of factor performances.
