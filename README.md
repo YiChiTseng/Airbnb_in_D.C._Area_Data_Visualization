@@ -40,3 +40,11 @@ Here is our insights:
 * As what we expected, accuracy, cleanliness, checkin, communication, location and value all influence the ratings and overall scores. The increase of these factors will make the ratings and overall review scores go up. By improving the quality of serives according to these factors would level up overal review scores and ratings.
 
 * Specifically, hosts should update the housing info and make sure descriptions and photos accuratly represent the housing stays. The price of stays should provide good values and meet expectations of guests. These two improvments would likely boost the reviews scores and rating the most. Also, cleanliness, check-in and communication experiences are important as well. Location seems to be the one factor that is hardly improve since it's physically here, but it affects the scores and ratings the least among all factors. Guests should put emphasis on improving the rest of factor performances.
+
+Here is our Insight:
+
+* We can see in the top 100 airbnb object name, most of the used words such as Metro, Private, Capitol hill, Location, Parking, etc. Most of the words are highly related to the convenience of the location and the transporation.
+
+* Those words on the wordcloud may be the key factors when a customer is choosing an Airbnb. We suggest that a way for the host could do is to list such key words on the website to attract guests.
+
+* However, we observed that the last 100 airbnb object name are lack of using these words. Perhaps due to this reason, guests won't be able to notice the, when they are searching for the accomomodation on the website.
