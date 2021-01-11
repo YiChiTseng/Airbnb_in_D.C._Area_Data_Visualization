@@ -46,3 +46,5 @@ Here is our insights:
 * Those words on the wordcloud may be the key factors when a customer is choosing an Airbnb. We suggest that a way for the host could do is to list such key words on the website to attract guests.
 
 * However, we observed that the last 100 airbnb object name are lack of using these words. Perhaps due to this reason, guests won't be able to notice the, when they are searching for the accomomodation on the website.
+
+# More detail can be find at ipynb file, Thank you.
